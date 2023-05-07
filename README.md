@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamipab
 - 👀 I’m interested in a lot of things, but now my new passion to learn to code. 
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on learning new skills in JavaScript and JAVA. 
 - 📫 How to reach me ---> by email: kamilebalkute@gmail.com
 
